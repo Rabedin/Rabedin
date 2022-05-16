@@ -4,12 +4,14 @@ I've got no formal education in computer science or the like, but I'm a fast lea
 
 Current goals:
   - Learn basic python
-  - Learn basic rust
+  - Learn basic C#
   - Learn proper git usage and practices
   
 Later goals:
+  - Develop unity games
   - Learn java
   - Learn javascript
+  - Learn rust
   - Learn C++
   - Learn Node.js
   - Learn React
