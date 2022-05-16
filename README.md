@@ -3,6 +3,7 @@ I'm an aspiring developper with the aim of working in the devops world later on.
 I've got no formal education in computer science or the like, but I'm a fast learner and love tinkering with code.
 
 Current goals:
+  - Complete Harvard's CS50x course
   - Learn basic python
   - Learn basic C#
   - Learn proper git usage and practices
