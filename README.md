@@ -3,16 +3,15 @@ I'm an aspiring developper with the aim of working in the devops world later on.
 I've got no formal education in computer science or the like, but I'm a fast learner and love tinkering with code.
 
 Current goals:
-  - Complete Harvard's CS50x course
   - Learn basic python
-  - Learn basic C#
+  - Learn basic rust
   - Learn proper git usage and practices
   
 Later goals:
   - Develop unity games
   - Learn java
   - Learn javascript
-  - Learn rust
+  - Learn C#
   - Learn C++
   - Learn Node.js
   - Learn React
